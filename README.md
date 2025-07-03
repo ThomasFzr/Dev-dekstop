@@ -45,22 +45,23 @@ ChatApp est une application de communication en temps réel développée en **C+
 ### Étapes
 ```bash
 git clone https://github.com/ton-utilisateur/ChatApp.git
-cd ChatApp
-Avec Qt Creator
+cd ChatApp ```
+
+ **Avec Qt Creator**
+```bash
 Ouvrir ChatApp.pro
 
 Compiler le projet
 
-Exécuter depuis l’IDE
+Exécuter depuis l’IDE```
 
-En ligne de commande
-bash
-Copier
-Modifier
+**En ligne de commande**
+```bash
 qmake
 make
-./ChatApp
-📚 Structure du projet
+./ChatApp```
+###**Structure du projet**
+
 css
 Copier
 Modifier
@@ -83,7 +84,7 @@ Modifier
 ├── resources.qrc
 ├── ChatApp.pro
 └── README.md
-🧪 Fonctionnalités à venir
+###  **🧪 Fonctionnalités à venir**
 Notifications système
 
 Authentification à deux facteurs (2FA)
@@ -93,7 +94,7 @@ Système de rôles personnalisés
 Réactions aux messages
 
 
-🤝 Auteurs
+### **🤝 Auteurs**
  Chikbouni Sofiane - sofiane200206
  Foltzer Thomas - ThomasFzr
  Meleo Quentin - quentinmel
