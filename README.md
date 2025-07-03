@@ -42,29 +42,32 @@ ChatApp est une application de communication en temps réel développée en **C+
 - Qt version 5.15 ou supérieure
 - CMake (si en dehors de Qt Creator)
 
-### Étapes
-```bash
-git clone https://github.com/ton-utilisateur/ChatApp.git
-cd ChatApp ```
+### 📥 Étapes
+git clone https://github.com/ThomasFzr/Dev-dekstop
 
- **Avec Qt Creator**
+cd ChatApp 
+
+**Avec Qt Creator**
 ```bash
 Ouvrir ChatApp.pro
 
 Compiler le projet
 
-Exécuter depuis l’IDE```
+Exécuter depuis l’IDE
+
+Compiler le projet
+
+Exécuter depuis l’IDE
+```
 
 **En ligne de commande**
 ```bash
 qmake
 make
-./ChatApp```
-###**Structure du projet**
-
-css
-Copier
-Modifier
+./ChatApp
+```
+### 📁 Structure du projet
+```
 /ChatApp
 │
 ├── src/
@@ -84,6 +87,7 @@ Modifier
 ├── resources.qrc
 ├── ChatApp.pro
 └── README.md
+```
 ###  **🧪 Fonctionnalités à venir**
 Notifications système
 
@@ -96,12 +100,14 @@ Réactions aux messages
 
 ### **🤝 Auteurs**
  Chikbouni Sofiane - sofiane200206
+ 
  Foltzer Thomas - ThomasFzr
+ 
  Meleo Quentin - quentinmel
 
 
 
-📄 Licence
+### 📄 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
 
 
